@@ -3,6 +3,8 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
+    "all": "0.0.0",
+    "npm-install-all": "^1.1.21",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-scripts": "1.1.1"
